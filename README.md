@@ -34,11 +34,17 @@ The core blockchain infrastructure developed using the **Hardhat** framework.
 
 ---
 
-## 🚀 Getting Started
+## Addresses
+✅ USDC Mock desplegado en: 0xb5aA63525769b3355DDfdEb874507fDFB2A279aD
 
-1. **Simulation:** Run the Python script in Phase 1 to understand the premium distribution logic.
-2. **Contracts:** Navigate to Phase 2, install dependencies with `npm install`, and compile the contracts using `npx hardhat compile`.
-3. **Tests:** Execute the test suite with `npx hardhat test` to verify the solvency guardrails and waterfall payouts.
+✅ YES Token desplegado en: 0xe8771b0A3C467a0f569FE8Bff68815DAD882770d
+
+✅ NO Token desplegado en: 0xDA942DebdEB8888F6531b57164C76f37722A8f4b
+
+✅ SPV_Vault desplegado en: 0xc9A4B230De730cb139e212150542E9c75Aa87FEA
+
+✅ PredictionMarket desplegado en: 0xd463D1FfBDBEC22a6Fe2C1981C4842A711E13e9A
+
 
 ---
 
